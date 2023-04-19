@@ -1,0 +1,801 @@
+.telalogin-container {
+  min-height: 100vh;
+}
+.telalogin-telalogin {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.telalogin-div {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 199.9375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  background-color: rgba(255, 255, 255, 1);
+}
+.telalogin-div1 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(244, 239, 239, 1);
+}
+.telalogin-divheaderline1centralizado {
+  top: 2px;
+  left: 360px;
+  width: 1200px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.telalogin-ultopmenulist {
+  top: 2.515625px;
+  left: 0px;
+  width: 643px;
+  height: 30.96875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.telalogin-text {
+  top: 5.480000019073486px;
+  left: 40px;
+  color: rgba(61, 61, 61, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.telalogin-text02 {
+  top: 5.484375px;
+  left: 149px;
+  color: rgba(202, 41, 41, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.telalogin-text04 {
+  top: 5.484375px;
+  left: 340px;
+  color: rgba(202, 41, 41, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.telalogin-text06 {
+  top: 5px;
+  color: rgb(202, 41, 41);
+  right: -68px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.telalogin-divheadercontacts {
+  top: 2.109375px;
+  left: 804.1875px;
+  width: 396px;
+  display: flex;
+  padding: 0 0 0 4.984375px;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.telalogin-asidecontactinfo {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4.984375px;
+}
+.telalogin-acontactinfoitem {
+  width: 124.3125px;
+  height: 31.765625px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 4.984375px;
+  border-radius: 20px;
+}
+.telalogin-text07 {
+  top: 5px;
+  color: rgba(61, 61, 61, 1);
+  right: 1px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.telalogin-acontactinfoitem1 {
+  width: 123.546875px;
+  height: 31.765625px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.telalogin-text09 {
+  top: 5px;
+  color: rgba(61, 61, 61, 1);
+  right: 2px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.telalogin-ulsocialicons {
+  display: flex;
+  padding: 7px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.telalogin-div2 {
+  top: 140px;
+  left: 0px;
+  width: 1920px;
+  height: 78px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(244, 239, 239, 1);
+}
+.telalogin-ul {
+  top: 5.984375px;
+  left: 360px;
+  width: 1200px;
+  height: 47.96875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.telalogin-text11 {
+  top: 18.03125px;
+  left: 60px;
+  color: rgba(0, 0, 0, 1);
+  width: 43px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.telalogin-text13 {
+  top: 18.03125px;
+  left: 160px;
+  color: rgba(0, 0, 0, 1);
+  width: 112px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.telalogin-spanmainmenulevel1text {
+  top: 19.015625px;
+  left: 398.2890625px;
+  width: 16px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.telalogin-text15 {
+  top: 18.03125px;
+  left: 320px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.telalogin-spanmainmenulevel1text1 {
+  top: 15px;
+  left: 530px;
+  width: 154px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.telalogin-text17 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  margin-right: 0.5625px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.telalogin-spanmainmenulevel1text2 {
+  top: 19.015625px;
+  left: 822.640625px;
+  width: 16px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.telalogin-text19 {
+  top: 18.03125px;
+  left: 730px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.telalogin-spanmainmenulevel1text3 {
+  top: 19.015625px;
+  left: 971.5625px;
+  width: 16px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.telalogin-text21 {
+  top: 18.03125px;
+  left: 890px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.telalogin-spanmainmenulevel1text4 {
+  top: 11.984375px;
+  left: 1116.03125px;
+  width: 11px;
+  display: flex;
+  padding: 0 0.375px 0 0;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.telalogin-text23 {
+  top: 20.015625px;
+  left: 1088px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.telalogin-text25 {
+  top: 20.015625px;
+  left: 1074px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.telalogin-div3 {
+  top: 40px;
+  left: 0px;
+  width: 1920px;
+  height: 100px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  background-color: rgba(31, 217, 28, 0.6499999761581421);
+}
+.telalogin-divheaderline2centralizado {
+  top: 10px;
+  left: 360px;
+  width: 1200px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.telalogin-divsearchformwrapperinput {
+  top: 15px;
+  left: 235.46875px;
+  width: 677px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.telalogin-inputsearchforminput {
+  top: 0px;
+  left: 0px;
+  width: 677px;
+  display: flex;
+  padding: 17px 51px 17px 16px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.telalogin-divplaceholder {
+  display: flex;
+  padding: 0 571.953125px 0 0;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.telalogin-text26 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.telalogin-buttondropdowntoggle {
+  top: 15px;
+  left: 952.40625px;
+  width: 156px;
+  display: flex;
+  padding: 13px 20.703125px 13px 19.984375px;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.telalogin-text28 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  margin-right: 4.984375px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.telalogin-meu-carrinho {
+  top: 10px;
+  left: 1115px;
+  width: 106px;
+  display: flex;
+  padding: 15px 24.828125px 15.015625px 19.984375px;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.telalogin-image63197442715493461961281 {
+  width: 25px;
+  height: 29px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 4.15625px;
+}
+.telalogin-text30 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  opacity: 0.50;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.telalogin-image1 {
+  top: 13px;
+  left: 40px;
+  width: 79px;
+  height: 74px;
+  position: absolute;
+  border-color: transparent;
+}
+.telalogin-rectangle1 {
+  top: 216px;
+  left: 0px;
+  width: 1920px;
+  height: 864px;
+  position: absolute;
+  border-color: transparent;
+}
+.telalogin-rectangle2 {
+  top: 305px;
+  left: 95px;
+  width: 1730px;
+  height: 686px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 30px;
+}
+.telalogin-text31 {
+  top: 371px;
+  left: 123px;
+  color: rgba(0, 0, 0, 1);
+  width: 330px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.telalogin-rectangle3 {
+  top: 551px;
+  left: 127px;
+  width: 550px;
+  height: 50px;
+  position: absolute;
+}
+.telalogin-text33 {
+  top: 551px;
+  left: 123px;
+  color: rgb(0, 0, 0);
+  width: 554px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.telalogin-rectangle6input {
+  top: 587px;
+  left: 707px;
+  width: 550px;
+  height: 50px;
+  position: absolute;
+}
+.telalogin-text34 {
+  top: 587px;
+  left: 703px;
+  color: rgb(0, 0, 0);
+  width: 554px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.telalogin-rectangle9button {
+  top: 930px;
+  left: 1456px;
+  width: 250px;
+  height: 30px;
+  position: absolute;
+}
+.telalogin-text35 {
+  color: rgba(140, 132, 132, 1);
+  right: 198px;
+  width: 248px;
+  bottom: 107px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.telalogin-rectangle7input {
+  top: 664px;
+  left: 707px;
+  width: 550px;
+  height: 50px;
+  position: absolute;
+}
+.telalogin-text37 {
+  top: 663px;
+  left: 705px;
+  color: rgba(0, 0, 0, 1);
+  width: 554px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.telalogin-rectangle4 {
+  top: 620px;
+  left: 127px;
+  width: 550px;
+  height: 50px;
+  position: absolute;
+}
+.telalogin-text39 {
+  top: 620px;
+  left: 121px;
+  color: rgb(0, 0, 0);
+  width: 554px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.telalogin-rectangle5input {
+  top: 689px;
+  left: 127px;
+  width: 550px;
+  height: 50px;
+  position: absolute;
+}
+.telalogin-text40 {
+  top: 689px;
+  left: 120px;
+  color: rgba(0, 0, 0, 1);
+  width: 554px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.telalogin-rectangle8 {
+  top: 539px;
+  left: 1454px;
+  width: 254px;
+  height: 254px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.telalogin-abtforward {
+  top: 638px;
+  left: 1492px;
+  width: 177px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+  background-color: rgba(241, 241, 241, 1);
+}
+.telalogin-text42 {
+  left: 12px;
+  color: rgb(0, 0, 0);
+  width: 157px;
+  bottom: 0px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

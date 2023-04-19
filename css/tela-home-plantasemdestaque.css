@@ -1,0 +1,1913 @@
+.tela-home-plantasemdestaque-container {
+  min-height: 100vh;
+}
+.tela-home-plantasemdestaque-tela-home-plantasemdestaque {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(252, 240, 240, 1);
+}
+.tela-home-plantasemdestaque-div {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 199.9375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  background-color: rgba(255, 255, 255, 1);
+}
+.tela-home-plantasemdestaque-div01 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(244, 239, 239, 1);
+}
+.tela-home-plantasemdestaque-divheaderline1centralizado {
+  top: 2px;
+  left: 360px;
+  width: 1200px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-ultopmenulist {
+  top: 2.515625px;
+  left: 0px;
+  width: 643px;
+  height: 30.96875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-text {
+  top: 5.480000019073486px;
+  left: 40px;
+  color: rgba(61, 61, 61, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-text002 {
+  top: 5.484375px;
+  left: 149px;
+  color: rgba(202, 41, 41, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-text004 {
+  top: 5.484375px;
+  left: 340px;
+  color: rgba(202, 41, 41, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-text006 {
+  top: 5px;
+  color: rgba(202, 41, 41, 1);
+  right: -72px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-divheadercontacts {
+  top: 2.109375px;
+  left: 804.1875px;
+  width: 396px;
+  display: flex;
+  padding: 0 0 0 4.984375px;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-asidecontactinfo {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4.984375px;
+}
+.tela-home-plantasemdestaque-acontactinfoitem {
+  width: 124.3125px;
+  height: 31.765625px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 4.984375px;
+  border-radius: 20px;
+}
+.tela-home-plantasemdestaque-text008 {
+  top: 5px;
+  color: rgba(61, 61, 61, 1);
+  right: 3px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-acontactinfoitem1 {
+  width: 123.546875px;
+  height: 31.765625px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.tela-home-plantasemdestaque-text010 {
+  top: 5px;
+  color: rgba(61, 61, 61, 1);
+  right: 2px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-ulsocialicons {
+  display: flex;
+  padding: 7px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-div02 {
+  top: 140px;
+  left: 0px;
+  width: 1920px;
+  height: 59.9375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(244, 239, 239, 1);
+}
+.tela-home-plantasemdestaque-ul {
+  top: 5.984375px;
+  left: 360px;
+  width: 1200px;
+  height: 47.96875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-text012 {
+  top: 15px;
+  left: 60px;
+  color: rgba(0, 0, 0, 1);
+  width: 43px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-text014 {
+  top: 15px;
+  left: 160px;
+  color: rgba(0, 0, 0, 1);
+  width: 112px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-spanmainmenulevel1text {
+  top: 15.984375px;
+  left: 398.2890625px;
+  width: 16px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-text016 {
+  top: 15px;
+  left: 320px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-spanmainmenulevel1text1 {
+  top: 15px;
+  left: 530px;
+  width: 154px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-text018 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  margin-right: 0.5625px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-spanmainmenulevel1text2 {
+  top: 15.984375px;
+  left: 822.640625px;
+  width: 16px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-text020 {
+  top: 15px;
+  left: 730px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-spanmainmenulevel1text3 {
+  top: 15.984375px;
+  left: 971.5625px;
+  width: 16px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-text022 {
+  top: 15px;
+  left: 890px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-spanmainmenulevel1text4 {
+  top: 11.984375px;
+  left: 1076.359375px;
+  width: 91px;
+  display: flex;
+  padding: 0 0.375px 0 0;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-text024 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  margin-right: 2.34375px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-text025 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-div03 {
+  top: 40px;
+  left: 0px;
+  width: 1920px;
+  height: 100px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  background-color: rgba(31, 217, 28, 0.6499999761581421);
+}
+.tela-home-plantasemdestaque-divheaderline2centralizado {
+  top: 10px;
+  left: 360px;
+  width: 1200px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-divsearchformwrapperinput {
+  top: 15px;
+  left: 235.46875px;
+  width: 677px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-inputsearchforminput {
+  top: 0px;
+  left: 0px;
+  width: 677px;
+  display: flex;
+  padding: 17px 51px 17px 16px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.tela-home-plantasemdestaque-divplaceholder {
+  display: flex;
+  padding: 0 571.953125px 0 0;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-text027 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-buttondropdowntoggle {
+  top: 15px;
+  left: 952.40625px;
+  width: 156px;
+  display: flex;
+  padding: 13px 20.703125px 13px 19.984375px;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.tela-home-plantasemdestaque-text029 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  margin-right: 4.984375px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-meu-carrinho {
+  top: 10.4921875px;
+  left: 1118.0625px;
+  width: 106px;
+  display: flex;
+  padding: 15px 24.828125px 15.015625px 19.984375px;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.tela-home-plantasemdestaque-image63197442715493461961281 {
+  width: 25px;
+  height: 29px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 4.15625px;
+}
+.tela-home-plantasemdestaque-text031 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  opacity: 0.50;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-image1 {
+  top: 53px;
+  left: 40px;
+  width: 79px;
+  height: 74px;
+  position: absolute;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-divshowcasebox {
+  top: 216px;
+  left: 15px;
+  width: 1200px;
+  height: 147.984375px;
+  display: flex;
+  position: absolute;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-text032 {
+  top: -1px;
+  color: rgba(35, 35, 35, 1);
+  height: auto;
+  position: absolute;
+  font-size: 39px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 47px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-text034 {
+  top: 65.984375px;
+  color: rgba(35, 35, 35, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-abtforward {
+  top: 97.984375px;
+  left: 0px;
+  width: 177px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+  background-color: rgba(254, 120, 0, 1);
+}
+.tela-home-plantasemdestaque-text036 {
+  left: 17px;
+  color: rgba(255, 255, 255, 1);
+  width: 138px;
+  bottom: -3px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-divslicklist {
+  top: 364px;
+  left: 348px;
+  width: 1224px;
+  height: 652.796875px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-divslicktrack {
+  top: 0px;
+  left: 0px;
+  width: 1530px;
+  height: 652.796875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  background-color: rgba(255, 255, 255, 1);
+}
+.tela-home-plantasemdestaque-divproduct785778902 {
+  top: 19.984375px;
+  left: 11.984375px;
+  width: 282px;
+  height: 632.8125px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(35, 35, 35, 0.20000000298023224);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.tela-home-plantasemdestaque-divproductimageoutline {
+  top: 1px;
+  left: 1px;
+  width: 280px;
+  height: 280.03125px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+}
+.tela-home-plantasemdestaque-image180mudadefrutadomilagresynsepalumdulcificumfe {
+  top: -0.4921875px;
+  left: 0px;
+  width: 280px;
+  height: 281px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.tela-home-plantasemdestaque-spanproductlabel {
+  top: 294px;
+  left: 109.109375px;
+  width: 64px;
+  display: flex;
+  padding: 1px 7.8125px 3px 9px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 20px;
+  background-color: rgba(162, 26, 233, 1);
+}
+.tela-home-plantasemdestaque-text038 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 21px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-divproductinfo {
+  top: 332.03125px;
+  left: 20.984375px;
+  width: 240px;
+  height: 219.78125px;
+  display: flex;
+  position: absolute;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-h3productname {
+  top: 10px;
+  left: 0px;
+  width: 240px;
+  height: 15.390625px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-text040 {
+  top: -1px;
+  left: 39.875px;
+  color: rgba(35, 35, 35, 1);
+  width: 161px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 15.399999618530273px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-div04 {
+  top: 42.390625px;
+  left: 56.78125px;
+  width: 126px;
+  height: 22px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-divtsshelfrate {
+  top: 0px;
+  left: 0px;
+  width: 103px;
+  height: 19px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-size: cover;
+  background-image: url("https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/d478bd82-d23f-487e-8038-94bb76343c19/44982d91-9a47-485c-bbb7-c4223e6a9c03?org_if_sml=1605");
+}
+.tela-home-plantasemdestaque-divtsshelfratesymbols {
+  top: 0px;
+  left: 0px;
+  width: 101px;
+  height: 19px;
+  position: absolute;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-text042 {
+  top: 4px;
+  left: 104.890625px;
+  color: rgba(218, 168, 29, 1);
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-divproductoffer {
+  top: 77.390625px;
+  left: 0px;
+  width: 240px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.tela-home-plantasemdestaque-spanproductprice {
+  display: flex;
+  padding: 0 77.6875px 0 77.375px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 0px;
+}
+.tela-home-plantasemdestaque-text044 {
+  color: rgba(35, 35, 35, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 33px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-divproductpayment {
+  display: flex;
+  padding: 0 6.1750030517578125px 0 6.375px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-text046 {
+  color: rgba(35, 35, 35, 0.6000000238418579);
+  width: 228px;
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-text047 {
+  font-weight: 400;
+}
+.tela-home-plantasemdestaque-text048 {
+  font-weight: 700;
+}
+.tela-home-plantasemdestaque-divproductform {
+  top: 561.828125px;
+  left: 20.984375px;
+  width: 240px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-inputquantity785778902 {
+  display: flex;
+  padding: 16px 31px 17px 16px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4.984375px;
+  border-radius: 20px;
+  background-color: rgba(35, 35, 35, 0.11999999731779099);
+}
+.tela-home-plantasemdestaque-div05 {
+  display: flex;
+  padding: 0 30.015625px 0 0;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-text050 {
+  color: rgba(35, 35, 35, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-buttonbtforward {
+  width: 151.0625px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+  background-color: rgba(116, 58, 4, 1);
+}
+.tela-home-plantasemdestaque-text051 {
+  top: -1px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-divproduct183373776 {
+  top: 19.984375px;
+  left: 317.984375px;
+  width: 282px;
+  height: 632.8125px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(35, 35, 35, 0.20000000298023224);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.tela-home-plantasemdestaque-divproductlabels {
+  top: 294px;
+  left: 20.984375px;
+  width: 240px;
+  display: flex;
+  padding: 3px 46.625px 3px 46.609375px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-spanproductlabel1 {
+  display: flex;
+  padding: 1px 8.015625px 3px 8px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 6px;
+  border-radius: 20px;
+  background-color: rgba(0, 25, 255, 1);
+}
+.tela-home-plantasemdestaque-text053 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 21px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-spanproductlabel2 {
+  display: flex;
+  padding: 1px 7.8125px 3px 9px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 20px;
+  background-color: rgba(162, 26, 233, 1);
+}
+.tela-home-plantasemdestaque-text055 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 21px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-divproductinfo1 {
+  top: 332.03125px;
+  left: 20.984375px;
+  width: 240px;
+  height: 219.78125px;
+  display: flex;
+  position: absolute;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-h3productname1 {
+  top: 10px;
+  left: 0px;
+  width: 240px;
+  height: 30.78125px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-text057 {
+  top: -1px;
+  left: 1.328125px;
+  color: rgba(35, 35, 35, 1);
+  width: 238px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 15.399999618530273px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-div06 {
+  top: 57.78125px;
+  left: 59.84375px;
+  width: 120px;
+  height: 22px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-divtsshelfrate1 {
+  top: 0px;
+  left: 0px;
+  width: 103px;
+  height: 19px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-size: cover;
+  background-image: url("https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/d478bd82-d23f-487e-8038-94bb76343c19/9bd63e36-5491-4874-9b56-6be96854e21f?org_if_sml=1605");
+}
+.tela-home-plantasemdestaque-text059 {
+  top: 5px;
+  left: 104.890625px;
+  color: rgba(203, 203, 203, 1);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-divproductoffer1 {
+  top: 92.78125px;
+  left: 0px;
+  width: 240px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.tela-home-plantasemdestaque-spanproductprice1 {
+  display: flex;
+  padding: 0 71.8125px 0 70.25px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 0px;
+}
+.tela-home-plantasemdestaque-text061 {
+  color: rgba(35, 35, 35, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 33px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-divproductpayment1 {
+  display: flex;
+  padding: 0 3.4562530517578125px 0 3.65625px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-text063 {
+  color: rgba(35, 35, 35, 0.6000000238418579);
+  width: 233px;
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-text064 {
+  font-weight: 400;
+}
+.tela-home-plantasemdestaque-text065 {
+  font-weight: 700;
+}
+.tela-home-plantasemdestaque-text066 {
+  font-weight: 400;
+}
+.tela-home-plantasemdestaque-text070 {
+  font-weight: 700;
+}
+.tela-home-plantasemdestaque-divproductform1 {
+  top: 561.828125px;
+  left: 20.984375px;
+  width: 240px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-inputquantity183373776 {
+  display: flex;
+  padding: 16px 31px 17px 16px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4.984375px;
+  border-radius: 20px;
+  background-color: rgba(35, 35, 35, 0.11999999731779099);
+}
+.tela-home-plantasemdestaque-div07 {
+  display: flex;
+  padding: 0 30.015625px 0 0;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-text072 {
+  color: rgba(35, 35, 35, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-buttonbtforward1 {
+  width: 151.0625px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+  background-color: rgba(117, 58, 4, 1);
+}
+.tela-home-plantasemdestaque-text073 {
+  top: -1px;
+  left: 43px;
+  color: rgb(255, 255, 255);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-image180mudadeamorapaquistanesafeitadeenxerto17835 {
+  top: -1.984375px;
+  left: 0.015625px;
+  width: 282px;
+  height: 282px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-radius: 20px;
+}
+.tela-home-plantasemdestaque-divproduct1613348892 {
+  top: 19.984375px;
+  left: 623.984375px;
+  width: 282px;
+  height: 632.8125px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(35, 35, 35, 0.20000000298023224);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.tela-home-plantasemdestaque-divproductimageoutline1 {
+  top: 1px;
+  left: 1px;
+  width: 280px;
+  height: 280.03125px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+}
+.tela-home-plantasemdestaque-image180jabuticabeiraproduzindohibridaminiprecoce1 {
+  top: 0px;
+  left: 0px;
+  width: 280px;
+  height: 280px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.tela-home-plantasemdestaque-divproductlabels1 {
+  top: 291.03125px;
+  left: 20.984375px;
+  width: 240px;
+  display: flex;
+  padding: 3px 46.625px 3px 46.609375px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-spanproductlabel3 {
+  display: flex;
+  padding: 1px 8.015625px 3px 8px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 6px;
+  border-radius: 20px;
+  background-color: rgba(0, 25, 255, 1);
+}
+.tela-home-plantasemdestaque-text074 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 21px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-spanproductlabel4 {
+  display: flex;
+  padding: 1px 7.8125px 3px 9px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 20px;
+  background-color: rgba(162, 26, 233, 1);
+}
+.tela-home-plantasemdestaque-text076 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 21px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-divproductinfo2 {
+  top: 332.03125px;
+  left: 20.984375px;
+  width: 240px;
+  height: 219.78125px;
+  display: flex;
+  position: absolute;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-h3productname2 {
+  top: 10px;
+  left: 0px;
+  width: 240px;
+  height: 30.78125px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-text078 {
+  top: -1px;
+  left: 1.734375px;
+  color: rgba(35, 35, 35, 1);
+  width: 237px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 15.399999618530273px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-div08 {
+  top: 57.78125px;
+  left: 59.84375px;
+  width: 120px;
+  height: 22px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-divtsshelfrate2 {
+  top: 0px;
+  left: 0px;
+  width: 103px;
+  height: 19px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-size: cover;
+  background-image: url("https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/d478bd82-d23f-487e-8038-94bb76343c19/976edaef-d0f4-4f30-94c8-bb3efcb87c84?org_if_sml=1605");
+}
+.tela-home-plantasemdestaque-text080 {
+  top: 5px;
+  left: 104.890625px;
+  color: rgba(203, 203, 203, 1);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-divproductoffer2 {
+  top: 92.78125px;
+  left: 0px;
+  width: 240px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.tela-home-plantasemdestaque-spanproductprice2 {
+  display: flex;
+  padding: 0 70.8125px 0 70.25px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 0px;
+}
+.tela-home-plantasemdestaque-text082 {
+  color: rgba(35, 35, 35, 1);
+  height: auto;
+  font-size: 19px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 33px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-divproductpayment2 {
+  display: flex;
+  padding: 0 3.4562530517578125px 0 3.65625px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-text084 {
+  color: rgba(35, 35, 35, 0.6000000238418579);
+  width: 233px;
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-text085 {
+  font-weight: 400;
+}
+.tela-home-plantasemdestaque-text086 {
+  font-weight: 700;
+}
+.tela-home-plantasemdestaque-text087 {
+  font-weight: 400;
+}
+.tela-home-plantasemdestaque-text091 {
+  font-weight: 700;
+}
+.tela-home-plantasemdestaque-divproductform2 {
+  top: 561.828125px;
+  left: 20.984375px;
+  width: 240px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-inputquantity1613348892 {
+  display: flex;
+  padding: 16px 31px 17px 16px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4.984375px;
+  border-radius: 20px;
+  background-color: rgba(35, 35, 35, 0.11999999731779099);
+}
+.tela-home-plantasemdestaque-div09 {
+  display: flex;
+  padding: 0 30.015625px 0 0;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-text093 {
+  color: rgba(35, 35, 35, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-buttonbtforward2 {
+  width: 151.0625px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+  background-color: rgba(117, 58, 4, 1);
+}
+.tela-home-plantasemdestaque-text094 {
+  top: 0px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-divproduct1520348693 {
+  top: 19.984375px;
+  left: 929.984375px;
+  width: 282px;
+  height: 632.8125px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(35, 35, 35, 0.20000000298023224);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.tela-home-plantasemdestaque-divproductimageoutline2 {
+  top: 1px;
+  left: 1px;
+  width: 280px;
+  height: 280.03125px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+}
+.tela-home-plantasemdestaque-image180mudadeorquideabaunilhavanillaplanifoliafei {
+  top: -1.984375px;
+  left: 0.015625px;
+  width: 280px;
+  height: 329px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.tela-home-plantasemdestaque-spanproductlabel5 {
+  top: 294.03125px;
+  left: 109.109375px;
+  width: 64px;
+  display: flex;
+  padding: 1px 7.8125px 3px 9px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 20px;
+  background-color: rgba(162, 26, 233, 1);
+}
+.tela-home-plantasemdestaque-text096 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 21px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-divproductinfo3 {
+  top: 332.03125px;
+  left: 20.984375px;
+  width: 240px;
+  height: 219.78125px;
+  display: flex;
+  position: absolute;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-h3productname3 {
+  top: 10px;
+  left: 0px;
+  width: 240px;
+  height: 30.78125px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-text098 {
+  top: -1px;
+  left: 10.015625px;
+  color: rgba(35, 35, 35, 1);
+  width: 220px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 15.399999618530273px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-div10 {
+  top: 57.78125px;
+  left: 56.78125px;
+  width: 126px;
+  height: 22px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-divtsshelfrate3 {
+  top: 0px;
+  left: 0px;
+  width: 103px;
+  height: 19px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-size: cover;
+  background-image: url("https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/d478bd82-d23f-487e-8038-94bb76343c19/e7275fde-29cc-4ec7-8084-c3faf5bc02cf?org_if_sml=1605");
+}
+.tela-home-plantasemdestaque-divtsshelfratesymbols1 {
+  top: 0px;
+  left: 0px;
+  width: 99px;
+  height: 19px;
+  position: absolute;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-text100 {
+  top: 5px;
+  left: 104.890625px;
+  color: rgba(218, 168, 29, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-divproductoffer3 {
+  top: 92.78125px;
+  left: 0px;
+  width: 240px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.tela-home-plantasemdestaque-spanproductprice3 {
+  display: flex;
+  padding: 0 77.6875px 0 77.375px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 0px;
+}
+.tela-home-plantasemdestaque-text102 {
+  color: rgba(35, 35, 35, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 33px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-divproductpayment3 {
+  display: flex;
+  padding: 0 6.1750030517578125px 0 6.375px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-text104 {
+  color: rgba(35, 35, 35, 0.6000000238418579);
+  width: 228px;
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-text105 {
+  font-weight: 400;
+}
+.tela-home-plantasemdestaque-text106 {
+  font-weight: 700;
+}
+.tela-home-plantasemdestaque-divproductform3 {
+  top: 561.828125px;
+  left: 20.984375px;
+  width: 240px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-inputquantity1520348693 {
+  display: flex;
+  padding: 16px 31px 17px 16px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4.984375px;
+  border-radius: 20px;
+  background-color: rgba(35, 35, 35, 0.11999999731779099);
+}
+.tela-home-plantasemdestaque-div11 {
+  display: flex;
+  padding: 0 30.015625px 0 0;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.tela-home-plantasemdestaque-text108 {
+  color: rgba(35, 35, 35, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-buttonbtforward3 {
+  width: 151.0625px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+  background-color: rgba(117, 58, 4, 1);
+}
+.tela-home-plantasemdestaque-text109 {
+  left: 43px;
+  color: rgb(255, 255, 255);
+  width: 62px;
+  bottom: 0px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tela-home-plantasemdestaque-abtforwardbutton {
+  top: 1022px;
+  left: 871px;
+  width: 177px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+  background-color: rgba(147, 233, 78, 1);
+}
+.tela-home-plantasemdestaque-text110 {
+  left: 21px;
+  color: rgba(0, 0, 0, 1);
+  width: 138px;
+  bottom: 0px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
